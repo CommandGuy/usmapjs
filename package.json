@@ -1,6 +1,6 @@
 {
   "name": "usmapjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NodeJS library to read and decompress usmap files",
   "main": "index.js",
   "scripts": {
